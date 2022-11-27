@@ -1,0 +1,47 @@
+.bm-masonry-item {
+	width: 31%;
+	margin: 0 1% 2% 1%;
+}
+.bm-masonry-style-1 .bm-masonry-item {
+	background-color: #eee;
+}
+.bm-masonry-style-2 .bm-masonry-item {
+	background-color: #fff;
+	box-shadow:1px 1px 8px 2px #eee;
+}
+.bm-masonry-wrapper {
+    padding: 15px;
+}
+.bm-masonry-style-1 .bm_title {
+	margin: 5px 0px;
+}
+.bm-masonry-style-2 .bm_title { 
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+.bm-masonry-desc {
+	padding: 5px 0;
+	font-size: 16px;
+}
+.bm-masonry-meta {
+	padding: 5px 0;
+	font-size: 14px;
+}
+.bm-masonry-meta span,
+.bm-masonry-meta span .fa {
+    padding-right: 5px;
+}
+
+/* Masonry on big screens */
+@media only screen and (max-width: 1024px) {
+	.bm-masonry-item {
+		width: 48%;
+		margin:10px 0;
+	}
+}
+/* Masonry on tablets */
+@media only screen and (max-width: 768px) {
+	.bm-masonry-item {
+		width: 100%;
+	}
+}

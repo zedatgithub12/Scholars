@@ -1,0 +1,79 @@
+.online-food-delivery-banner-section h1,.online-food-delivery-banner-section p,.online-food-delivery-banner-section .wp-block-button__link,.online-food-delivery-product-section h2{
+    font-family: 'Sen', sans-serif;
+}
+/*online-food-delivery-banner-section*/
+.online-food-delivery-banner-section h1{
+    font-weight: 700;
+}
+.online-food-delivery-banner-text-section .wp-block-search__button{
+    border-radius: 30px;
+    background: #cf001a;
+    line-height: 1;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 8px 20px !important;
+}
+.online-food-delivery-banner-text-section .components-resizable-box__container.wp-block-search__inside-wrapper{
+    background: #fff;
+    padding: 6px 3px;
+    border-radius: 30px;
+}
+.online-food-delivery-banner-text-section .wp-block-search__inside-wrapper {
+    border: none !important;
+}
+.online-food-delivery-banner-section .social-icons{
+    padding: 15px 10px;
+    border-radius: 30px;
+    height: 12%;
+}
+.online-food-delivery-banner-section ul.wp-block-social-links{
+    margin-bottom: 8px;
+}
+/*digital-agency-product-section*/
+.online-food-delivery-product-section h2{
+    font-weight: 700;
+}
+.online-food-delivery-product-column-section  .wp-block-button__link{
+    padding: 8px 15px;
+    border-radius: 30px;
+    color: #fff !important;
+    background: #cf001a !important;
+    display: inline-block;
+    font-size: 16px !important;
+}
+.online-food-delivery-product-column-section  .wp-block-button__link:hover{
+    background: #ffab01 !important;
+    color: #000 !important; 
+}
+.online-food-delivery-product-column-section .wc-block-grid__product-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+.online-food-delivery-product-column-section .wc-block-grid__product-title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #000;
+}
+.online-food-delivery-product-column-section{
+    position: relative;
+}
+.online-food-delivery-product-column-section .wc-block-grid__product-onsale {
+    color: #000;
+    padding: 5px 8px;
+    border-radius: 5px;
+    position: absolute;
+    top: 10px !important;
+    font-weight: 500;
+    left: 10px;
+    background: #ffab01;
+    font-size: 13px;
+    line-height: 1;
+    margin: 0 !important;
+    border: none;
+}
+.online-food-delivery-product-column-section .wc-block-grid__product-price.price {
+    font-size: 16px;
+    color: #000;
+    font-weight: 600;
+}

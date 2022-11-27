@@ -1,0 +1,436 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blogmentor for Elementor\n"
+"POT-Creation-Date: 2022-05-25 12:03+0530\n"
+"PO-Revision-Date: 2017-03-11 16:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: Techeshta <info@techeshta.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2c;esc_attr_e;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blogmentor.php:66 blogmentor.php:153 blogmentor.php:162 blogmentor.php:184
+msgid "Blogmentor"
+msgstr ""
+
+#: blogmentor.php:153
+msgid ""
+" widgets not working because you need to activate the Elementor plugin."
+msgstr ""
+
+#: blogmentor.php:154
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: blogmentor.php:162
+msgid " widgets not working because you need to install the Elemenor plugin"
+msgstr ""
+
+#: blogmentor.php:163
+msgid "Install Elementor Now"
+msgstr ""
+
+#: blogmentor.php:184
+msgid "widgets not working because you are using an old version of Elementor."
+msgstr ""
+
+#: blogmentor.php:185
+msgid "Update Elementor Now"
+msgstr ""
+
+#: includes/blogmentor-functions.php:89
+msgid "Posted by"
+msgstr ""
+
+#: includes/blogmentor-functions.php:103
+msgid "By"
+msgstr ""
+
+#: includes/blogmentor-functions.php:147 includes/blogmentor-functions.php:166
+msgid ", "
+msgstr ""
+
+#: includes/blogmentor-functions.php:152
+msgid "Posted in"
+msgstr ""
+
+#: includes/blogmentor-functions.php:170
+msgid "Tags:"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:26
+msgid "Blog Posts"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:43
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:50
+msgid "Layouts Type"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:53
+msgid "Grid"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:54
+msgid "Masonry"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:55
+msgid "Metro"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:63
+msgid "Style"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:66
+#: includes/elements/blogmentor-blog-posts.php:357
+msgid "Style 1"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:67
+#: includes/elements/blogmentor-blog-posts.php:358
+msgid "Style 2"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:76
+msgid "Grid Columns"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:100
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:102
+msgid "Set number of posts to display."
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:113
+msgid "Image Size"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:123
+msgid "Show Image Effect"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:126
+#: includes/elements/blogmentor-blog-posts.php:154
+#: includes/elements/blogmentor-blog-posts.php:165
+msgid "Off"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:127
+#: includes/elements/blogmentor-blog-posts.php:155
+#: includes/elements/blogmentor-blog-posts.php:166
+msgid "On"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:133
+msgid "Image Hover Effect"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:136
+msgid "Blur"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:137
+msgid "Flashing"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:138
+msgid "Gray Scale"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:139
+msgid "Opacity"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:140
+msgid "Shine"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:151
+msgid "Show Title"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:162
+msgid "Show Title Link"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:175
+msgid "Title HTML Tag"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:198
+msgid "Post Content Feed"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:213
+#: includes/elements/blogmentor-blog-posts.php:230
+#: includes/elements/blogmentor-blog-posts.php:284
+#: includes/elements/blogmentor-blog-posts.php:661
+msgid "Excerpt"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:215
+#: includes/elements/blogmentor-blog-posts.php:258
+#: includes/elements/blogmentor-blog-posts.php:286
+#: includes/elements/blogmentor-blog-posts.php:298
+msgid "Show"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:216
+#: includes/elements/blogmentor-blog-posts.php:259
+#: includes/elements/blogmentor-blog-posts.php:287
+#: includes/elements/blogmentor-blog-posts.php:299
+msgid "Hide"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:226
+msgid "Excerpt From"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:229
+#: includes/elements/blogmentor-blog-posts.php:597
+msgid "Content"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:243
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:256
+#: includes/elements/blogmentor-blog-posts.php:717
+#: includes/elements/blogmentor-blog-posts.php:745
+msgid "Read More"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:271
+msgid "Read More Text"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:273
+#: includes/layouts/grid/grid-style-1.php:63
+#: includes/layouts/grid/grid-style-2.php:44
+#: includes/layouts/masonry/masonry-style-1.php:63
+#: includes/layouts/masonry/masonry-style-2.php:91
+#: includes/layouts/metro/metro-style-1.php:45
+msgid "Read More »"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:296
+msgid "Show Meta Data"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:307
+msgid "Meta Data"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:314
+#: includes/elements/blogmentor-blog-posts.php:424
+msgid "Author"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:315
+msgid "Date"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:316
+msgid "Comments"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:317
+#: includes/elements/blogmentor-blog-posts.php:388
+msgid "Tags"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:318
+msgid "Category"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:325
+msgid "Date Format"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:328
+msgid "Month Date, Year"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:329
+msgid "YYYY-MM-DD"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:330
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:331
+msgid "DD/MM/YYYY"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:341
+msgid "Pagination Type"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:344
+msgid "No Pagination"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:345
+msgid "Paged"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:354
+msgid "Pagination Style"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:371
+msgid "Query"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:377
+msgid "Categories"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:381
+msgid "Select the categories you want to show"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:392
+msgid "Select the tags you want to show"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:399
+msgid "Authors"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:403
+msgid "Select the authors you want to show"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:410
+msgid "Advanced"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:417
+msgid "Order By"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:421
+msgid "Publish Date"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:422
+msgid "ID"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:423
+#: includes/elements/blogmentor-blog-posts.php:611
+msgid "Title"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:425
+msgid "Random"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:432
+msgid "Sort By"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:436
+msgid "DESC"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:437
+msgid "ASC"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:453
+msgid "Layout"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:463
+msgid "Grid Gap"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:486
+msgid "Rows Gap"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:510
+msgid "Alignment"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:515
+msgid "Left"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:519
+msgid "Center"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:523
+msgid "Right"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:527
+msgid "Justify"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:550
+msgid "Image"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:560
+msgid "Border Radius"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:574
+msgid "Background Color"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:584
+msgid "Content Box Color"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:619
+#: includes/elements/blogmentor-blog-posts.php:673
+#: includes/elements/blogmentor-blog-posts.php:726
+#: includes/elements/blogmentor-blog-posts.php:754
+msgid "Color"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:643
+#: includes/elements/blogmentor-blog-posts.php:698
+#: includes/elements/blogmentor-blog-posts.php:832
+msgid "Spacing"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:773
+msgid "Meta"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:782
+msgid "Icon Color"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:799
+msgid "Text Color"
+msgstr ""
+
+#: includes/elements/blogmentor-blog-posts.php:813
+msgid "Hover Color"
+msgstr ""
